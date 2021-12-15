@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvReader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mniki\\Downloads\\airtravel.csv"
+    }
+  }
+}
